@@ -179,6 +179,7 @@ ul{
     margin-bottom: 7px;
     font-size:20px;
     font-variant: small-caps;
+    z-index: 2;
 }
 
 a{
@@ -346,4 +347,5 @@ main{
             opacity: 10%;
         }
         
+
     }
