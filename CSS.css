@@ -179,7 +179,6 @@ ul{
     margin-bottom: 7px;
     font-size:20px;
     font-variant: small-caps;
-    z-index: 2;
 }
 
 a{
@@ -235,6 +234,9 @@ main{
     .main{
         padding: 0px 40px 0px 40px;
 
+    }
+    ul{
+        z-index: 2;
     }
     .par{
         grid-template-areas: 
@@ -349,3 +351,4 @@ main{
         
 
     }
+
