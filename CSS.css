@@ -317,6 +317,10 @@ main{
         .par div p{
             margin-top: 0;
         }
+        .home, .con{
+            height: auto;
+            min-height: 100vh;
+        }
         .img1{
             transition: none;
             max-width: 80%;
@@ -351,5 +355,6 @@ main{
         
 
     }
+
 
 
