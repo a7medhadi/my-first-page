@@ -320,6 +320,9 @@ main{
         .con{
             min-height: 100vh;
         }
+        .home{
+            min-height: 100vh;
+        }
         .img1{
             transition: none;
             max-width: 80%;
@@ -353,6 +356,7 @@ main{
         }
         
     }
+
 
 
 
